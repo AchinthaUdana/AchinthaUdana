@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Achintha Udana</h1>
 <h3 align="center">I'm a passionate web developer and tech enthusiast working on mastering the MERN stack to build dynamic and scalable applications. Currently, I'm learning JavaScript, React.js, and Next.js to broaden my development skills and bring my ideas to life. When I'm not coding, you can find me enjoying gaming, particularly in League of Legends where I main Akali!</h3>
----
+
 
 ## Technologies & Tools 🌐
 - **Languages:** JavaScript, HTML, CSS

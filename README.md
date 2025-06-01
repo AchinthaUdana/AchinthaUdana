@@ -39,7 +39,7 @@
 
 ### 💻 Profile Stats
 
-![Achintha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achintha&show_icons=true&theme=radical)
+![AchinthaUdana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchinthaUdana&show_icons=true&theme=radical)
 
 
 

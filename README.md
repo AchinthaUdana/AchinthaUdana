@@ -39,8 +39,16 @@
 
 ### 💻 Profile Stats
 
-![AchinthaUdana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchinthaUdana&show_icons=true&theme=radical)
+<a href="https://github.com/AchinthaUdana/github-readme-stats">
+  <img align="left" src="[https://github-readme-stats.vercel.app/api/pin/?username=AchinthaUdana&repo=github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)" />
+</a>
+<a href="https://github.com/AchinthaUdana/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AchinthaUdana&repo=convoychat" />
+</a>
 
+[![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AchinthaUdana&repo=github-readme-stats)](https://github.com/AchinthaUdana/github-readme-stats)
 
 
 

@@ -86,6 +86,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchinthaUdana&layout=compact&theme=transparent" width="350" height="165"/>
 </p>
 
+![Snake animation](https://github.com/AchinthaUdana/<your-repo>/blob/output/github-contribution-grid-snake-dark.svg)
+
+
 
 
 
